@@ -98,7 +98,7 @@ slug: Web/HTML/Element/Shadow
 
 ブラウザーで表示した場合、次のように見えるはずです。
 
-![shadow example](https://mdn.mozillademos.org/files/10083/shadow-example.png)
+![shadow example](https://developer.mozilla.org/en-US/docs/web/html/element/shadow/shadow-example.png)
 
 ## 仕様書
 
